@@ -1,4 +1,5 @@
 # AddinUtil.exe
 
 ## References
-* https://lolbas-project.github.io/lolbas/Binaries/Addinutil/
+
+* [Lolbas](https://lolbas-project.github.io/lolbas/Binaries/Addinutil/)

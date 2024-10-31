@@ -1,4 +1,5 @@
 # accesschk64.exe
 
 ## References
-* https://learn.microsoft.com/en-us/sysinternals/downloads/accesschk
+
+* [Lolbas](https://learn.microsoft.com/en-us/sysinternals/downloads/accesschk)

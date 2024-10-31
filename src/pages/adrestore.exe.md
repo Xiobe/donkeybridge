@@ -1,4 +1,5 @@
 # adrestore.exe
 
 ## References
-* https://learn.microsoft.com/en-us/sysinternals/downloads/adrestore
+
+* [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/adrestore)

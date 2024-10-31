@@ -1,4 +1,5 @@
 # adplus.exe
 
 ## References
-* https://lolbas-project.github.io/lolbas/OtherMSBinaries/Adplus/
+
+* [Lolbas](https://lolbas-project.github.io/lolbas/OtherMSBinaries/Adplus/)
